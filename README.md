@@ -1,4 +1,4 @@
-# Draft Lens: Predicting NBA Impact from College Performance
+#  Predicting NBA Impact from College Performance
 
 **Repository:** [https://github.com/chouiie/Predicting-NBA-Impact-from-College-Performance./
 ]
