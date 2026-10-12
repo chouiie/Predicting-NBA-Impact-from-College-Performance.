@@ -1,6 +1,7 @@
 # Draft Lens: Predicting NBA Impact from College Performance
 
-**Repository:** [github.com/chouiie/Predicting-NBA-Impact-from-College-Performance](https://github.com/chouiie/Predicting-NBA-Impact-from-College-Performance)
+**Repository:** [https://github.com/chouiie/Predicting-NBA-Impact-from-College-Performance./
+]
 
 Which college stats actually predict success in the NBA? This project builds a multiple linear regression model on 386 drafted players to find out. It controls for draft position, position, and age so the model measures what college performance adds beyond what scouts already priced in.
 
